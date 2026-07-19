@@ -1,0 +1,32 @@
+state_name,event_name,start_date,end_date,status,category
+AL,Severe Storm Preparedness Holiday,2024-02-23,2024-02-25,confirmed,emergency_preparedness
+AL,Back to School Sales Tax Holiday,2024-07-19,2024-07-21,confirmed,back_to_school
+AR,Back to School Sales Tax Holiday,2024-08-03,2024-08-04,confirmed,back_to_school
+CT,Sales Tax Free Week,2024-08-18,2024-08-24,confirmed,back_to_school
+FL,Back to School Sales Tax Holiday,2024-07-29,2024-08-11,confirmed,back_to_school
+IA,Sales Tax Holiday,2024-08-02,2024-08-03,confirmed,back_to_school
+LA,Hurricane Preparedness Holiday,2024-05-25,2024-05-26,confirmed,emergency_preparedness
+MA,Sales Tax Holiday Weekend,2024-08-10,2024-08-11,confirmed,general_merchandise
+MD,Shop Maryland Tax-Free Week,2024-08-11,2024-08-17,confirmed,back_to_school
+MS,Back to School Sales Tax Holiday,2024-07-26,2024-07-27,confirmed,back_to_school
+MO,Show-Me Green Sales Tax Holiday,2024-04-19,2024-04-25,confirmed,energy_star
+MO,Back to School Sales Tax Holiday,2024-08-02,2024-08-04,confirmed,back_to_school
+NM,Gross Receipts Tax Holiday,2024-08-02,2024-08-04,confirmed,back_to_school
+SC,Tax Free Weekend,2024-08-02,2024-08-04,confirmed,back_to_school
+TN,Back to School Sales Tax Holiday,2024-07-26,2024-07-28,confirmed,back_to_school
+TX,Back to School Sales Tax Holiday,2024-08-09,2024-08-11,confirmed,back_to_school
+VA,Combined Sales Tax Holiday,2024-08-02,2024-08-04,confirmed,combined
+AL,Back to School Sales Tax Holiday,2025-07-18,2025-07-20,projected,back_to_school
+AR,Back to School Sales Tax Holiday,2025-08-01,2025-08-02,projected,back_to_school
+CT,Sales Tax Free Week,2025-08-10,2025-08-16,projected,back_to_school
+FL,Back to School Sales Tax Holiday,2025-07-28,2025-08-10,projected,back_to_school
+IA,Sales Tax Holiday,2025-08-01,2025-08-02,projected,back_to_school
+MS,Back to School Sales Tax Holiday,2025-07-18,2025-07-19,projected,back_to_school
+MO,Back to School Sales Tax Holiday,2025-08-01,2025-08-03,projected,back_to_school
+NM,Gross Receipts Tax Holiday,2025-08-01,2025-08-03,projected,back_to_school
+SC,Tax Free Weekend,2025-08-01,2025-08-03,projected,back_to_school
+TN,Back to School Sales Tax Holiday,2025-07-18,2025-07-20,projected,back_to_school
+TX,Back to School Sales Tax Holiday,2025-08-08,2025-08-10,projected,back_to_school
+VA,Combined Sales Tax Holiday,2025-08-01,2025-08-03,projected,combined
+MD,Shop Maryland Tax-Free Week,2025-08-08,2025-08-14,projected,back_to_school
+MA,Sales Tax Holiday Weekend,2025-08-08,2025-08-09,projected,general_merchandise

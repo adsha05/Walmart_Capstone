@@ -1,0 +1,21 @@
+start_date,end_date,event_name,sport_category,relevant_departments
+2024-03-19,2024-04-08,NCAA_March_Madness_2024,college_basketball,"Team Sports, Sporting Goods"
+2024-03-28,2024-03-28,MLB_Opening_Day_2024,baseball,"Team Sports, Sporting Goods"
+2024-04-25,2024-04-27,NFL_Draft_2024,football,"Team Sports, Sporting Goods"
+2024-04-20,2024-06-19,NBA_Playoffs_2024,basketball,"Team Sports, Sporting Goods"
+2024-04-20,2024-06-24,NHL_Stanley_Cup_Playoffs_2024,hockey,Team Sports
+2024-06-06,2024-06-17,NBA_Finals_2024,basketball,Team Sports
+2024-07-16,2024-07-16,MLB_All_Star_Game_2024,baseball,Team Sports
+2024-08-01,2024-08-24,NFL_Preseason_2024,football,"Team Sports, Sporting Goods"
+2024-08-24,2024-10-05,College_Football_Regular_Season_Kickoff_2024,football,"Team Sports, Sporting Goods"
+2024-09-05,2025-01-05,NFL_Regular_Season_2024,football,"Team Sports, Sporting Goods"
+2024-10-25,2024-11-02,MLB_World_Series_2024,baseball,Team Sports
+2025-02-09,2025-02-09,Super_Bowl_LIX_2025,football,"Team Sports, Sporting Goods"
+2025-03-18,2025-04-07,NCAA_March_Madness_2025,college_basketball,"Team Sports, Sporting Goods"
+2025-03-27,2025-03-27,MLB_Opening_Day_2025,baseball,"Team Sports, Sporting Goods"
+2025-04-24,2025-04-26,NFL_Draft_2025,football,Team Sports
+2025-04-19,2025-06-18,NBA_Playoffs_2025,basketball,Team Sports
+2025-07-15,2025-07-15,MLB_All_Star_Game_2025,baseball,Team Sports
+2025-08-07,2025-08-23,NFL_Preseason_2025,football,"Team Sports, Sporting Goods"
+2025-08-23,2025-10-04,College_Football_Regular_Season_Kickoff_2025,football,"Team Sports, Sporting Goods"
+2025-09-04,2026-01-04,NFL_Regular_Season_2025,football,"Team Sports, Sporting Goods"
